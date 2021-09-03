@@ -19,3 +19,10 @@ pip3.8 install -r requirements.txt
 pip3.8 freeze > requirements.txt
 ```
 
+
+### eip-1559的JSON-RPC变化
+https://hackmd.io/@timbeiko/1559-json-rpc
+
+
+### london-fork
+https://blog.infura.io/london-fork/
